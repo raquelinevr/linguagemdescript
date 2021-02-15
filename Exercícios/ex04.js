@@ -1,7 +1,7 @@
 // Verificação do Triângulo
 
 function verTriangulo(a, b, c) {
-  if ((a + b) > c && (b + c) > a && (c + a) > b{
+  if ((a + b) > c && (b + c) > a && (c + a) > b){
     if (a === b && b === c) {
       console.log("equilateral");
   } else if (a !== b && b !== c && c !== a) {
