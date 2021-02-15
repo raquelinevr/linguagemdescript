@@ -1,3 +1,7 @@
+// Soma
+
+//1
+
 function soma(x, y) {
     return x + y;
   }
@@ -8,3 +12,11 @@ function soma(x, y) {
   
   console.log(soma(1, 2)); // => 3
   console.log(soma(3, 2)); // => 5 
+
+//2 
+
+function somaValor(x, y) {
+  return x + y;
+}
+console.log(somaValor(1, 2)); // => 3
+console.log(somaValor(3, 2)); // => 5
